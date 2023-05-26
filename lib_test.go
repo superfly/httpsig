@@ -28,7 +28,7 @@ import (
 	"net/http"
 	"testing"
 
-	"zntr.io/httpsig"
+	"github.com/superfly/httpsig"
 )
 
 // -----------------------------------------------------------------------------

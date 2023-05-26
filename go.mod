@@ -1,4 +1,4 @@
-module zntr.io/httpsig
+module github.com/superfly/httpsig
 
 go 1.16
 
